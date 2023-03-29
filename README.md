@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Dmaneral/interactive-pricing-component-main](https://github.com/Dmaneral/interactive-pricing-component-main)
+- Live Site URL: [https://dmaneral.github.io/interactive-pricing-component-main/](https://dmaneral.github.io/interactive-pricing-component-main/)
 
 ## My process
 
